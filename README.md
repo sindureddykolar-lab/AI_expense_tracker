@@ -2,7 +2,7 @@
 
 A smart web application to manage income and expenses efficiently with clean dashboard insights.
 
-## 🚀 Features
+##  Features
 - Add income and expense records
 - Track balance automatically
 - Categorize transactions
@@ -10,7 +10,7 @@ A smart web application to manage income and expenses efficiently with clean das
 - User-friendly dashboard
 - Responsive UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - React.js
 - Node.js
 - Express.js
@@ -18,7 +18,7 @@ A smart web application to manage income and expenses efficiently with clean das
 - Prisma
 - Tailwind CSS
 
-## ⚙️ Installation
+##  Installation
 
 git clone https://github.com/sindureddykolar-lab/AI_expense_tracker.git
 
@@ -26,11 +26,11 @@ npm install
 
 npm run dev
 
-## 📌 Future Enhancements
+##  Future Enhancements
 - AI spending suggestions
 - Charts & analytics
 - Budget planning
 - Export reports
 
-## 👩‍💻 Author
+##  Author
 Sindureddy
